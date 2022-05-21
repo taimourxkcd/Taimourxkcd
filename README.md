@@ -1,4 +1,4 @@
-### Hi there 👋
+                                                          # Hi There I am Taimour Afzal 
 
 Here are some ideas to get you started:
 
@@ -9,4 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... taimour.ffcb@gmail.com
 - ⚡ Fun fact: ... I am from Azad Kashmir
 
-**hello**
+#H1
+
+
