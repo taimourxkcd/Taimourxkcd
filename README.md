@@ -1,4 +1,8 @@
-# Hi There I am Taimour Afzal 
+
+<h1 align="center">
+ Hi There I am Taimour Afzal 
+
+<h1/>
 
 Here are some ideas to get you started:
 
