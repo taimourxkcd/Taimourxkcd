@@ -1,7 +1,7 @@
 
 <h1 align="center">
  Hi There I am Taimour Afzal 
-<h1/>
+</h1>
 
 Here are some ideas to get you started:
 
@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">
 Languages and Tools 
-<h1/>
+</h1>
 
+<h1 align="center">
+Highlighted Projects 
+</h1>
