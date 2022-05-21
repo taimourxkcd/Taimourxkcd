@@ -25,3 +25,10 @@ Languages and Tools
 <h1 align="center">
 Highlighted Projects 
 </h1>
+
+| Easy Bank Landing Page  | Loop Studios  | 
+|:-------------:          |:-------------:| 
+| [live website](https://easybanktaimour.netlify.app/)| right-aligned | 
+| col 2 is                | centered      | 
+| zebra stripes           | are neat      | 
+
