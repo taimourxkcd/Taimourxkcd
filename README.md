@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... taimour.ffcb@gmail.com
 - ⚡ Fun fact: ... I am from Azad Kashmir
 
-<p align="center">
+<h1 align="center">
 # Languages and Tools 
 
-<p/>
+<h1/>
 
