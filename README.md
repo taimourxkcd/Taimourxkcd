@@ -34,7 +34,7 @@ Highlighted Projects
 | Frontend Projects | Easy Bank Landing Page | Loop Studios | 
 | :---: | :---: | :---: | 
 | Live Website | Click Here | Click Here |
-| :---: | :---: | :---: | 
+| View Code | Click Here | Click Here | 
 | Seconds | 301 | 283 | 290 |
 
 <h1 align="center">
