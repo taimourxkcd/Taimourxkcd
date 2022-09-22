@@ -32,8 +32,8 @@ Highlighted Projects
 | <img width="10%" height="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWM9na5PcnybjMC5TB08Hm-0OKJt62f5dF14zPa14oqKJQpd6fIshZSYknt7fhUnr9q8&usqp=CAU"></img>[VIEW CODE](https://github.com/taimourz/Web-Development/tree/master/Projects/1%20Easy%20Bank%20Landing%20Page)|<img width="10%" height="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWM9na5PcnybjMC5TB08Hm-0OKJt62f5dF14zPa14oqKJQpd6fIshZSYknt7fhUnr9q8&usqp=CAU"></img>[VIEW CODE](https://github.com/taimourz/Web-Development/tree/master/Projects/12%20Loop%20Studios)| 
 
 | Frontend Projects | #1 | #2 | 
-| :---: | :---: | :---: | :---: | 
-| Seconds | 301 | 283 | 290 | 286 | 
+| :---: | :---: | :---: | 
+| Seconds | 301 | 283 | 290 | 
 
 <h1 align="center">
 Contact Me 
