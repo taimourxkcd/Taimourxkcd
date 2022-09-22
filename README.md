@@ -33,7 +33,7 @@ Highlighted Projects
 
 | Frontend Projects | Easy Bank Landing Page | Loop Studios | 
 | :---: | :---: | :---: | 
-| Live Website | Click Here | Click Here |
+| Live Website | [live website](https://easybanktaimour.netlify.app/) |[live website](https://loopstudiotaimour.netlify.app/) | 
 | View Code | Click Here | Click Here | 
 | Seconds | 301 | 283 | 290 |
 
