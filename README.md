@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studing computer science 6th semester 
-- 🌱 I’m currently learning ... Javascript and REACT
+- 🔭 I’m currently studing computer science 7th semester 
+- 🌱 I’m currently learning Android App Development with JAVA and Unity
 - 👯 I’m looking to collaborate on ... Web development
 - 💬 Ask me about ... Anything 
-- 📫 How to reach me: ... taimour.ffcb@gmail.com
-- ⚡ Fun fact: ... I am from Azad Kashmir
+- 📫 How to reach me: ... taimour.ffcb@gmail.com OR 03328578135
+- ⚡ Fun fact: ... I am from Azad Kashmir, love music and movies However i have never watched Harry Potter and Star Trek
 
 <h1 align="center">
 Languages and Tools 
