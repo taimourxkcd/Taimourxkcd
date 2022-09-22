@@ -19,7 +19,7 @@ Languages and Tools
 <p align="center">
 <img class="center" width="25%" height="25%" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png">  <img width="8%" height="8%" src="https://brandslogos.com/wp-content/uploads/images/c-logo-black-and-white.png"> 
  <img width="8%" height="8%" src="https://brandslogos.com/wp-content/uploads/images/c-logo-1.png"> 
- <a href="https://www.liblogo.com/lib/ruby-on-rails-logo.html" title="Ruby On Rails Logo"><img src="https://www.liblogo.com/img-logo/sml/ru8158r5e0-ruby-on-rails-logo-rails-logo-png-transparent-amp-svg-vector-freebie-supply.webp"></a>
+<img src="https://www.pngfind.com/pngs/m/344-3441378_ruby-on-rails-ruby-on-rails-logo-png.png">
 
 </p>
 
