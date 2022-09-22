@@ -19,8 +19,8 @@ Languages and Tools
 <p align="center">
 <img class="center" width="25%" height="25%" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png">  <img width="8%" height="8%" src="https://brandslogos.com/wp-content/uploads/images/c-logo-black-and-white.png"> 
  <img width="8%" height="8%" src="https://brandslogos.com/wp-content/uploads/images/c-logo-1.png"> 
-<img width="15%" height="10%" src="https://imgur.com/gallery/trDI5Au">
- <blockquote class="imgur-embed-pub" lang="en" data-id="a/trDI5Au"  ><a href="//imgur.com/a/trDI5Au">rails bg</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img width="15%" height="10%" src="https://drive.google.com/file/d/1FEncHSUscvxsKlkfE9RIJ8waDTIQvR-8/view?usp=sharing">
+ 
 
 </p>
 
