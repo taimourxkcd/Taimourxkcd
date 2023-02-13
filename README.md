@@ -1,12 +1,11 @@
 
 ### Hey there, I'm Taimour Afzal 👋
 
-## I am a Full Stack Developer,
+## I am a Full Stack Developer
 
 - 🔭 I’m currently studing computer science 8th semester 
-- 🌱 I’m currently learning Android App Development with JAVA 
+- 🌱 I’m currently learning Full Stack App Development with Ruby on Rails and React 
 - 👯 I’m improving my skills on CodeForces
-- 
 	<a  align="center">
 ![](https://komarev.com/ghpvc/?username=taimourz&color=blueviolet&label=Profile+Views)
 	</a>
