@@ -26,9 +26,18 @@ Here are some ideas to get you started:
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=taimourz&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
 
-## Contribution Graph
 
-[![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=taimourz&theme=react-dark&area=true)](https://github.com/taimourz)
+### Languages & Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
 
 ## Let's Connect
 <br/>
@@ -45,15 +54,6 @@ Here are some ideas to get you started:
 	<br />
 </p> 
   
-<h1 align="center">
-Languages and Tools 
-</h1>
-
-<p align="center">
-<img class="center" width="25%" height="25%" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png">  <img width="8%" height="8%" src="https://brandslogos.com/wp-content/uploads/images/c-logo-black-and-white.png"> 
- <img width="8%" height="8%" src="https://brandslogos.com/wp-content/uploads/images/c-logo-1.png"> 
-<img  style="margin-top: 50px;" width="25%"  src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg">
-</p>
 
 <h1 align="center">
 Highlighted Projects 
