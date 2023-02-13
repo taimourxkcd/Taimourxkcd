@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... taimour.ffcb@gmail.com OR 03328578135
 - ⚡ Fun fact: ... I am from Azad Kashmir, love music and movies However i have never watched Harry Potter and Star Trek
 
+	<a  align="center">
+![](https://komarev.com/ghpvc/?username=taimourz&color=blueviolet&label=Profile+Views)
+	</a>
+
+
 <h1 align="center">
 Languages and Tools 
 </h1>
