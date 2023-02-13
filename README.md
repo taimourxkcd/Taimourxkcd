@@ -33,16 +33,18 @@ Here are some ideas to get you started:
 ## Let's Connect
 <br/>
 <p align="center">
-	<a href="taimour.ffcb@gmail.com">
+	<a href="mailto:taimour.ffcb@gmail.com">
 		<img  alt="taimour.ffcb@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 	</a>
 
 	<a href="https://www.linkedin.com/in/muhammad-taimour-afzal-khan-5702061a9/">
 		<img alt="Taimour Afzal| LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
+	
 	<a href="https://github.com/taimourz">
 		<img alt="Taimour Afzal| GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
+	
 	<br />
 </p>  
   
