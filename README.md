@@ -15,7 +15,7 @@
 <p style="text-align: center;">
 	<a href="https://github.com/taimourz">
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taimourz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taimourz&layout=compact&langs_count=8&theme=algolia"/>
+		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taimourz&layout=compact&langs_count=10&theme=algolia"/>
 		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=taimourz&show_icons=true&locale=en&layout=demo&theme=algolia" alt="taimourz" />
 	</a>
 	<img  height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=taimourz&show_icons=true&locale=en&layout=demo&theme=algolia" />
