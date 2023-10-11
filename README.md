@@ -11,7 +11,7 @@
 - 🔭 I’m currently studing computer science 8th semester 
 - 🌱 I’m currently learning Full Stack App Development with Ruby on Rails and React 
 - 👯 I’m improving my skills on CodeForces
-- <a align="center"> ![](https://komarev.com/ghpvc/?username=taimourz&color=blueviolet&label=Profile+Views) </a>
+- <a align="center"> ![](https://komarev.com/ghpvc/?username=taimourxkcd&color=blueviolet&label=Profile+Views) </a>
  - <a href="https://leetcode.com/taimouraaa/">
     <img alt="Leetcode" src="https://cp-logo.vercel.app/leetcode/taimouraaa"/>
 </a>
@@ -19,12 +19,12 @@
 ## GitHub Analytics
 
 <p style="text-align: center;">
-	<a href="https://github.com/taimourz">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taimourz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taimourz&layout=compact&langs_count=10&theme=algolia"/>
-<!-- 		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=taimourz&show_icons=true&locale=en&layout=demo&theme=algolia" alt="taimourz" /> -->
+	<a href="https://github.com/taimourxkcd">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taimourxkcd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taimourxkcd&layout=compact&langs_count=10&theme=algolia"/>
+<!-- 		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=taimourxkcd&show_icons=true&locale=en&layout=demo&theme=algolia" alt="taimourxkcd" /> -->
 	</a>
-	<img  height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=taimourz&show_icons=true&locale=en&layout=demo&theme=algolia" />
+	<img  height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=taimourxkcd&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
 
 --------------------
@@ -60,7 +60,7 @@
 	</a>
 	<a href="mailto:taimour.ffcb@gmail.com">
 		<img  alt="taimour.ffcb@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
-	<a href="https://github.com/taimourz">
+	<a href="https://github.com/taimourxkcd">
 		<img alt="Taimour Afzal| GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
 	<a href="https://www.instagram.com/ta.i.am.our/"><img src="https://img.shields.io/badge/-@ta.i.am.our-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
