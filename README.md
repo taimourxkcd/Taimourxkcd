@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Full Stack App Development with Ruby on Rails and React 
 - 👯 I’m improving my skills on CodeForces
 - <a align="center"> ![](https://komarev.com/ghpvc/?username=taimourxkcd&color=blueviolet&label=Profile+Views) </a>
- - <a href="https://leetcode.com/taimouraaa/">
+ - <a href="https://leetcode.com/taimourz/">
     <img alt="Leetcode" src="https://cp-logo.vercel.app/leetcode/taimouraaa"/>
 </a>
 
